@@ -1,4 +1,5 @@
-# CNH Simulated
+# Tourii-route
+## simulador para cnh
 
 Aplicativo desktop para simular e revisar questões do exame teórico da CNH, com banco local e geração de novas perguntas por IA.
 
